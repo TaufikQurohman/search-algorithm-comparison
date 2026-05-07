@@ -118,6 +118,3 @@ Project ini dibuat untuk:
 - Pembelajaran algoritma pencarian
 - Analisis kompleksitas waktu
 - Visualisasi performa algoritma
-
-Your Name
-```
